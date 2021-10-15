@@ -1,0 +1,2 @@
+.list{list-style:none;padding-left:0;display:flex}.list__item{border:1px solid #000;border-right:none;border-radius:0}.list__item:last-child{border-right:1px solid #000}.tab-button{cursor:pointer;padding:5px 15px;background-color:#fff;border:none}.tab-button:disabled{cursor:unset}
+/*# sourceMappingURL=main.e953462d.chunk.css.map */
